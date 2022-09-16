@@ -1,0 +1,8 @@
+{
+  "repositories" : ["terraform","api","web"],
+  "branch" : ["main","dev","prod","qa","staging","staging-green"],
+  "users" : {
+    "joshua.auger@bounteous.com" : ["admin","dev","infrastructure"],
+    "joshuaauger-bounteous" : ["admin", "dev", "infrastructure"]
+  }
+}
